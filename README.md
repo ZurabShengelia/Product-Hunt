@@ -58,7 +58,7 @@ npm install nodemailer
 EMAIL_USER=your_gmail@gmail.com
 EMAIL_PASSWORD=your_gmail_app_password
 
-MONGODB_URI=mongodb://localhost:27017/myapp
+MONGODB_URI=mongodb://localhost:/myapp
 
 JWT_SECRET=your_jwt_secret_key
 ```
