@@ -36,7 +36,7 @@ A full-stack web application for showcasing, discovering, and voting on innovati
 
 Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (v14 or higher)
-- [MongoDB](https://www.mongodb.com/try/download/community) (running on localhost:27017)
+- [MongoDB](https://www.mongodb.com/try/download/community) (running on localhost:)
 - npm or yarn package manager
 
 ## 🚀 Installation & Setup
