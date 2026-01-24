@@ -217,7 +217,7 @@ The application uses Gmail SMTP for sending emails. To set it up:
 
 ## 📝 License
 
-This project is open source and available under the MIT License.
+This project is open source and available (i give you permission to take if you want)
 
 ## 👨‍💻 Author
 
