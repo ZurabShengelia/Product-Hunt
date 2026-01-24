@@ -203,7 +203,6 @@ The application uses Gmail SMTP for sending emails. To set it up:
 
 ### MongoDB Connection Issues
 - Ensure MongoDB is running: `net start MongoDB` (Windows)
-- Check if MongoDB is listening on localhost:27017
 
 ### Email Sending Not Working
 - Verify Gmail app password in `.env` file
